@@ -1,0 +1,92 @@
+export const dailyActiveAndUninstallData = [
+    {
+        id: 1,
+        time: 'May 1',
+        active: 14,
+        uninstall: 8,
+    },
+    {
+        id: 2,
+        time: 'May 2',
+        active: 9,
+        uninstall: 6,
+    },
+    {
+        id: 3,
+        time: 'May 3',
+        active: 11,
+        uninstall: 4,
+    },
+    {
+        id: 4,
+        time: 'May 4',
+        active: 17,
+        uninstall: 12,
+    },
+    {
+        id: 5,
+        time: 'May 5',
+        active: 13,
+        uninstall: 10,
+    },
+    {
+        id: 6,
+        time: 'May 6',
+        active: 12,
+        uninstall: 7,
+    },
+    {
+        id: 7,
+        time: 'May 7',
+        active: 8,
+        uninstall: 5,
+    },
+    {
+        id: 8,
+        time: 'May 8',
+        active: 15,
+        uninstall: 11,
+    },
+    {
+        id: 9,
+        time: 'May 9',
+        active: 6,
+        uninstall: 3,
+    },
+    {
+        id: 10,
+        time: 'May 10',
+        active: 10,
+        uninstall: 9,
+    },
+    {
+        id: 11,
+        time: 'May 11',
+        active: 16,
+        uninstall: 14,
+    },
+    {
+        id: 12,
+        time: 'May 12',
+        active: 7,
+        uninstall: 13,
+    },
+    {
+        id: 13,
+        time: 'May 13',
+        active: 18,
+        uninstall: 15,
+    },
+    {
+        id: 14,
+        time: 'May 14',
+        active: 19,
+        uninstall: 8,
+    },
+    {
+        id: 15,
+        time: 'May 15',
+        active: 5,
+        uninstall: 3,
+    },
+];

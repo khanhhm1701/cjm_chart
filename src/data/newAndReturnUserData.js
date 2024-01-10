@@ -1,0 +1,147 @@
+export const newAndReturnUserData = [
+    {
+      id: 1,
+      hour: '00:00',
+      newUser: 18230,
+      returnUser: 12500,
+    },
+    {
+      id: 2,
+      hour: '01:00',
+      newUser: 19200,
+      returnUser: 14200,
+    },
+    {
+      id: 3,
+      hour: '02:00',
+      newUser: 17750,
+      returnUser: 13500,
+    },
+    {
+      id: 4,
+      hour: '03:00',
+      newUser: 17850,
+      returnUser: 12650,
+    },
+    {
+      id: 5,
+      hour: '04:00',
+      newUser: 18780,
+      returnUser: 13350,
+    },
+    {
+      id: 6,
+      hour: '05:00',
+      newUser: 19320,
+      returnUser: 13780,
+    },
+    {
+      id: 7,
+      hour: '06:00',
+      newUser: 18850,
+      returnUser: 13250,
+    },
+    {
+      id: 8,
+      hour: '07:00',
+      newUser: 18930,
+      returnUser: 12900,
+    },
+    {
+      id: 9,
+      hour: '08:00',
+      newUser: 19560,
+      returnUser: 13850,
+    },
+    {
+      id: 10,
+      hour: '09:00',
+      newUser: 19870,
+      returnUser: 14560,
+    },
+    {
+      id: 11,
+      hour: '10:00',
+      newUser: 20000,
+      returnUser: 14870,
+    },
+    {
+      id: 12,
+      hour: '11:00',
+      newUser: 19500,
+      returnUser: 14420,
+    },
+    {
+      id: 13,
+      hour: '12:00',
+      newUser: 19050,
+      returnUser: 13680,
+    },
+    {
+      id: 14,
+      hour: '13:00',
+      newUser: 19400,
+      returnUser: 14000,
+    },
+    {
+      id: 15,
+      hour: '14:00',
+      newUser: 19100,
+      returnUser: 13890,
+    },
+    {
+      id: 16,
+      hour: '15:00',
+      newUser: 19600,
+      returnUser: 14500,
+    },
+    {
+      id: 17,
+      hour: '16:00',
+      newUser: 19900,
+      returnUser: 14900,
+    },
+    {
+      id: 18,
+      hour: '17:00',
+      newUser: 19750,
+      returnUser: 14780,
+    },
+    {
+      id: 19,
+      hour: '18:00',
+      newUser: 19380,
+      returnUser: 14260,
+    },
+    {
+      id: 20,
+      hour: '19:00',
+      newUser: 19070,
+      returnUser: 13900,
+    },
+    {
+      id: 21,
+      hour: '20:00',
+      newUser: 18550,
+      returnUser: 13050,
+    },
+    {
+      id: 22,
+      hour: '21:00',
+      newUser: 18000,
+      returnUser: 12500,
+    },
+    {
+      id: 23,
+      hour: '22:00',
+      newUser: 17500,
+      returnUser: 12000,
+    },
+    {
+      id: 24,
+      hour: '23:00',
+      newUser: 17000,
+      returnUser: 11500,
+    }
+  ];
+  

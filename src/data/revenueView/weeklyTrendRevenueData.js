@@ -1,0 +1,58 @@
+export const weeklyTrendRevenueData = [
+    {
+        id: 1, 
+        time: 'May 8 - May 14',
+        revenue: 690,
+        convension: 180,
+        pay_user: 20,
+    },
+    {
+        id: 2, 
+        time: 'May 15 - May 21',
+        revenue: 780,
+        convension: 230,
+        pay_user: 18,
+    },
+    {
+        id: 3, 
+        time: 'May 22 - May 28',
+        revenue: 920,
+        convension: 260,
+        pay_user: 22,
+    },
+    {
+        id: 4, 
+        time: 'May 29 - Jun 4',
+        revenue: 1050,
+        convension: 300,
+        pay_user: 25,
+    },
+    {
+        id: 5, 
+        time: 'Jun 5 - Jun 11',
+        revenue: 830,
+        convension: 250,
+        pay_user: 21,
+    },
+    {
+        id: 6, 
+        time: 'Jun 12 - Jun 18',
+        revenue: 570,
+        convension: 160,
+        pay_user: 15,
+    },
+    {
+        id: 7, 
+        time: 'Jun 19 - Jun 25',
+        revenue: 620,
+        convension: 170,
+        pay_user: 19,
+    },
+    {
+        id: 8, 
+        time: 'Jun 26 - Jul 2',
+        revenue: 1300,
+        convension: 290,
+        pay_user: 24,
+    },
+];
